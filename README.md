@@ -16,7 +16,7 @@ Java, Spring Boot, NodeJs, React, Angular, REST APIs, Microservices, Cloud (AWS)
 [LinkedIn](https://www.linkedin.com/in/jeffry-livingston/) | [Email](mailto:jeffrylivingston5@gmail.com)
 
 🌐 Portfolio:  
-[https://jeffry-portfolio-c2a37.web.app/](https://jeffry-portfolio-c2a37.web.app/)
+[https://jeffry-portfolio-c2a37.web.app/](🔗 My Portfolio)
 
 
 🚀 Passionate about solving real-world problems through technology, collaborating with cross-functional teams, and continuously learning.
